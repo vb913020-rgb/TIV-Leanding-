@@ -147,7 +147,7 @@ function initLeadForm() {
     );
 
     if (modalWhatsappLink) {
-      modalWhatsappLink.href = `https://wa.me/919876543210?text=${waText}`;
+      modalWhatsappLink.href = `https://wa.me/917000430772?text=${waText}`;
     }
 
     // Show Success Modal
